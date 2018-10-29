@@ -1,1 +1,1 @@
-React application for Nerdify organization
+# cra app
